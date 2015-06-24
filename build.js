@@ -1,7 +1,7 @@
 "use strict";
 
-var $ = require('jquery'),
-	_ = require('lodash');
+var $ = $ || require('jquery'),
+    _ = _ || require('lodash');
 
 function api(){
 	this.server = 'http://localhost';
