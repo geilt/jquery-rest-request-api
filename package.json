@@ -1,0 +1,31 @@
+{
+  "name": "jquery-rest-request-api",
+  "version": "1.0.0",
+  "description": "jQuery REST API Helper",
+  "main": "jquery-api.js",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geilt/jquery-rest-request-api.git"
+  },
+  "keywords": [
+    "jquery",
+    "api",
+    "rest",
+    "http",
+    "request",
+    "crud"
+  ],
+  "author": "Alexander Conroy <alex@esotech.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geilt/jquery-rest-request-api/issues"
+  },
+  "homepage": "https://github.com/geilt/jquery-rest-request-api#readme"
+}
